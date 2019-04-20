@@ -1,0 +1,26 @@
+<annotation>
+	<folder>singer</folder>
+	<filename>13.jpg</filename>
+	<path>/home/sri/Desktop/singer/13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>singer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>139</xmin>
+			<ymin>241</ymin>
+			<xmax>232</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
