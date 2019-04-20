@@ -1,0 +1,2 @@
+# SingerLogoDetection
+Detecting Singer logos
